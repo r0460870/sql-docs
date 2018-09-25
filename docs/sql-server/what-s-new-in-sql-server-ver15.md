@@ -23,7 +23,7 @@ monikerRange: ">=sql-server-ver15||=sqlallproducts-allversions"
 **Try SQL Server 2019!**
 - [![Download from Evaluation Center](../includes/media/download2.png)](http://go.microsoft.com/fwlink/?LinkID=862101) [Download SQL Server 2019 to install on Windows](http://go.microsoft.com/fwlink/?LinkID=862101)
 - Install on Linux for [Red Hat Enterprise Server](../linux/quickstart-install-connect-red-hat.md), [SUSE Linux Enterprise Server](../linux/quickstart-install-connect-suse.md), and [Ubuntu](../linux/quickstart-install-connect-ubuntu.md).
-- [Run on SQL Server 2019 on Docker](../linux/quickstart-install-connect-docker.md).
+- [Run SQL Server 2019 on Docker](../linux/quickstart-install-connect-docker.md).
 
 ## CTP 2.0 
 
